@@ -34,5 +34,4 @@ class GuessingGame
         self.check_num(num)
     end
 
-
 end
